@@ -1,6 +1,6 @@
 module github.com/iosmanthus/subgen
 
-go 1.22
+go 1.24.0
 
 require (
 	github.com/Jeffail/gabs/v2 v2.7.0
@@ -8,7 +8,7 @@ require (
 	github.com/gin-gonic/gin v1.9.1
 	github.com/google/go-jsonnet v0.20.1-0.20230626194039-fed90cd9cd73
 	github.com/sirupsen/logrus v1.9.3
-	golang.org/x/crypto v0.15.0
+	golang.org/x/crypto v0.45.0
 )
 
 require (
@@ -94,12 +94,12 @@ require (
 	github.com/urfave/cli v1.22.14 // indirect
 	go.opencensus.io v0.24.0 // indirect
 	golang.org/x/arch v0.6.0 // indirect
-	golang.org/x/net v0.18.0 // indirect
+	golang.org/x/net v0.47.0 // indirect
 	golang.org/x/oauth2 v0.14.0 // indirect
-	golang.org/x/sync v0.5.0 // indirect
-	golang.org/x/sys v0.14.0 // indirect
-	golang.org/x/term v0.14.0 // indirect
-	golang.org/x/text v0.14.0 // indirect
+	golang.org/x/sync v0.18.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
+	golang.org/x/term v0.37.0 // indirect
+	golang.org/x/text v0.31.0 // indirect
 	golang.org/x/time v0.4.0 // indirect
 	google.golang.org/api v0.150.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
